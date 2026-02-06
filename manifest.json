@@ -1,6 +1,6 @@
 {
   "name": "FreightPilot TMS",
-  "short_name": "DYNA",
+  "short_name": "DYNA TMS",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
